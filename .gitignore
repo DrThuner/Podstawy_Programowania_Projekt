@@ -1,0 +1,36 @@
+# --- Dane wejsciowe (pobierane ze strony z materialami; nie wersjonujemy) ---
+*.zip
+dane.txt
+lista.txt
+lista-pop.txt
+lista-zlatana.txt
+steps-2sql.csv
+steps-2csv.sql
+en-7.2.json5
+en-7.4.json5
+index.html
+blue.png
+orange.png
+toxic.png
+yellow.png
+
+# --- Pliki generowane przez skrypty ---
+dane-3kolumny.txt
+steps.sql
+steps.csv
+pl-7.2.json5
+pl-7.4.json5
+photos/
+gotowe/
+kopie/
+zdjecia-gotowe.zip
+portfolio.pdf
+galeria.html
+body.tmp
+
+# Wyjatek: gotowa latka jest deliverable zadania 4
+!zad04-poprawki/lista.patch
+
+# System
+.DS_Store
+Thumbs.db
